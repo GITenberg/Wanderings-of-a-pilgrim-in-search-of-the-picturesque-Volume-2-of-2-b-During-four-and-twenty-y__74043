@@ -1,0 +1,41 @@
+_repo: Wanderings-of-a-pilgrim-in-search-of-the-picturesque-Volume-2-of-2-b-During-four-and-twenty-y__74043
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parlby, Fanny Parkes
+    aliases:
+    - Parkes, Fanny
+    - Parks, Fanny
+    birthdate: 1794
+    deathdate: 1875
+    gutenberg_agent_id: '50729'
+    url: http://www.gutenberg.org/2009/agents/50729
+    wikipedia: https://en.wikipedia.org/wiki/Fanny_Parkes
+description: ''
+gutenberg_issued: '2024-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74043'
+language: en
+pgterms:marc904: https://archive.org/details/wanderingsofpilg02parluoft
+pgterms:marc905: 20171014141952parlby
+pgterms:marc906: '1850'
+pgterms:marc907: GB
+production_note: ellinora and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aLondon :$bPelham Richardson, $c1850.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Description and travel'
+- !lcsh 'India -- Social life and customs -- 19th century'
+- !lcsh 'Parlby, Fanny Parkes, 1794-1875 -- Diaries'
+- !lcsh 'Parlby, Fanny Parkes, 1794-1875 -- Travel -- India'
+- !lcsh 'Colonial administrators'' spouses -- India -- Diaries'
+- !lcc 'DS'
+- GITenberg
+title: 'Wanderings of a pilgrim in search of the picturesque, Volume 2 (of 2) : $b
+  During four-and-twenty years in the east; with revelations of life in the zenāna'
+url: http://www.gutenberg.org/ebooks/74043
